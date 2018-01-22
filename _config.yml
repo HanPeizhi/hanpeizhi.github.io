@@ -215,7 +215,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/HanPeizhi
-  新浪博客: http://blog.sina.com.cn/u/2145408284
+  Weibo: http://blog.sina.com.cn/u/2145408284
 
 # Social Links Icons
 # Icon Mapping:
@@ -229,7 +229,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  新浪博客: weibo
+  #新浪博客: weibo
 
 
 # Sidebar Avatar
