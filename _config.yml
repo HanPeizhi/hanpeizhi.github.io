@@ -365,8 +365,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -383,7 +383,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: Han Peizhi
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -418,9 +418,9 @@ baidushare: true
 ##  type: button
 
 # Share
-jiathis: true
+jiathis: false
 # Warning: JiaThis does not support https.
-add_this_id: ra-5aacbb7f56d3de92
+#add_this_id: ra-5aacbb7f56d3de92
 
 # Share
 #duoshuo_share: true
