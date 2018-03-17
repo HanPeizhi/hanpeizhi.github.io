@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -227,8 +227,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  #Twitter: twitter
+  #Weibo: weibo
   新浪博客: weibo
 
 
@@ -378,11 +378,11 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: Han Peizhi
+# duoshuo_shortname: Han Peizhi
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: Han Peizhi
   count: true
   # hide comments (visitors need to click to load the comments)
