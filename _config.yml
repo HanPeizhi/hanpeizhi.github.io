@@ -123,6 +123,7 @@ menu:
   tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
+  poem: /poem
 
 
 # Enable/Disable menu icons.
@@ -141,6 +142,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  poem: moon
 
 
 
