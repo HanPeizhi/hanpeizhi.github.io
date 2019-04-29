@@ -9,24 +9,24 @@ categories: 英语口语入门
 
 我极力推荐。
 
-I **recommend** the burgers. They're amazing.
+I **recommend** the burgers. They're amazing.  
 我推荐这家汉堡，特别棒。
 
-I recommend writing your feeling down on paper.
+I recommend writing your feeling down on paper.  
 我建议你把自己的感受写下来。
 
-> What can I get you? It's an open menu, but we recommend the chicken.
+> What can I get you? It's an open menu, but we recommend the chicken.  
 > ***open menu 菜品吩咐*** ；***do recommend 强调推荐*** 
 
-I strongly recommend that you get professional advice.
+I strongly recommend that you get professional advice.  
 我强烈建议你咨询专业人士的建议。
 
 ---
 
-She is highly motivated to work with.
+She is highly motivated to work with.  
 她工作特别积极主动。***motivated 有积极性的***
 
-I ***highly doubt*** that.
+I ***highly doubt*** that.  
 我难以置信。
 
 ---
