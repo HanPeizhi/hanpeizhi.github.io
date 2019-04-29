@@ -217,6 +217,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/HanPeizhi
   新浪博客: http://blog.sina.com.cn/u/2145408284
+  CSDN博客：https://blog.csdn.net/sinat_20593627
 
 # Social Links Icons
 # Icon Mapping:
@@ -231,7 +232,7 @@ social_icons:
   #Twitter: twitter
   #Weibo: weibo
   新浪博客: weibo
-
+  CSDN博客：crosshairs
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
