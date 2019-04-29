@@ -70,7 +70,7 @@ I suggest this one.
 Dish / soup of the day.   
 推荐菜/汤。  
 
-Today's special.
+Today's special.  
 特色菜。  
 
 Let's try dish of the day.
