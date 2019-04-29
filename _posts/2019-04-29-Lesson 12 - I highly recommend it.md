@@ -51,7 +51,7 @@ Stop raving about him.
 ---
 
 > You know, these aren't half bad. You should ***suggest*** something like these to Han.  
-> 这些担心挺不错的。你应该向老韩土建这类东西。  
+> 这些担心挺不错的。你应该向老韩推荐这类东西。  
 > Okay, first of all, that's stupid. And second of all, I'm not allowed to talk to Han.  
 > 好吧，第一，那很蠢。再者，他们不允许我跟老韩说话。  
 
