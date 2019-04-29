@@ -1,10 +1,8 @@
 ---
-​---
 title: Lesson 12 - I highly recommend it
-date: 2013-12-24 23:31:30
+date: 2018-4-29 08:29:30
 layout: post
 categories: 英语口语入门
-​---
 ---
 
 # I highly recommend it！
