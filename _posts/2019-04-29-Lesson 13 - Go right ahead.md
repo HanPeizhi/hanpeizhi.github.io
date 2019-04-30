@@ -1,10 +1,8 @@
 ---
-​---
 title: Lesson 13 - Go right ahead.
 date: 2019-04-29 21:53:33
 layout: post
 categories: 英语口语入门
-​---
 ---
 
 # Go right ahead.
