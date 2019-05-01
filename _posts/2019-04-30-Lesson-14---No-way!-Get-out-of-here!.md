@@ -10,12 +10,12 @@ categories: 英语口语入门
 不可能！别扯淡了！
 
 There is now way that could be true.  
-这不可能世真的吧。
+这不可能是真的吧。
 
 No way! I can't believe this.
 
 > -Han says they're closing down the bar.  
-> 老韩硕酒吧要停业了。 ***close down 关闭，停业***  
+> 老韩说酒吧要停业了。 ***close down 关闭，停业***  
 > -No way!  
 > 不会吧！***惊讶，难以置信***
 
@@ -31,7 +31,7 @@ I'm sorry but there's no way we can help you.
 我很遗憾，但我们确实没有办法帮助你。
 
 > -I'm Han's long lost son.  
-> 我世老韩失散多年的儿子啊。  
+> 我是老韩失散多年的儿子啊。  
 > -Right. Could you sign this?  
 > 对，请你签收这个好吗？  
 > -No. No way, I'm not signing that.  
