@@ -93,7 +93,7 @@ They've been together for many years but on and off.
 > Are you sure you tested him right?  
 > 你确定给他做的测试没有问题吗？  
 > We know how smart he is.  
-> 我们知道老他有多聪明。  
+> 我们知道他有多聪明。  
 
 The food is kind of average.  
 那里的食物很一般。  
